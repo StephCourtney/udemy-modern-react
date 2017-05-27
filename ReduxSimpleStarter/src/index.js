@@ -7,6 +7,6 @@ const App = () => {
 }
 
 // Step 2: Take this components generated HTML and
-//        put it in the DOM
+//         put it in the DOM
 
 ReactDOM.render(<App />, document.querySelector('.container'));
