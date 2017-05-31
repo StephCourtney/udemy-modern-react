@@ -1,8 +1,8 @@
 export default function() {
   return [
-    {title: 'JS'},
-    {title: 'Harry Potter'},
-    {title: 'Hunger Games'},
-    {title: 'Butterfly Garden'}
+    {title: 'JS', pages: 101},
+    {title: 'Harry Potter', pages: 300},
+    {title: 'Hunger Games', pages: 200},
+    {title: 'Butterfly Garden', pages: 250}
   ]
 }
